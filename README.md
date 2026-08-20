@@ -1,4 +1,3 @@
-<<<<<<< HEAD
 # Project NEXT — CRME
 
 **Cultural Response & Moment Engine** · HUL Techtonic S8
@@ -251,7 +250,3 @@ scripts/smoke.mjs              End-to-end test against a running server
 - Cycle times shown in the console are real compute time (milliseconds), not the 15-minute
   operational SLA. The SLA is what the *organisation* achieves end-to-end; the graph itself
   is far faster than its own budget.
-=======
-# Techtonic_G-T_IT_App
-An autonomous 5-agent decisioning &amp; governance network for real-time FMCG moment marketing. Shrinks Unilever's 6-week brand clearance gate to &lt;15 mins via deterministic Brand Fit ( C f i t C  fit ​   ), IP compliance masking, inventory gating, and human-in-the-loop (HITL) fail-safes. Built for HUL TechTonic Season 8.
->>>>>>> db95252faf1e9a38f37795e690579ec8936b4d5e
